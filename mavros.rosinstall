@@ -1,0 +1,10 @@
+- git:
+    local-name: mavlink
+    uri: https://github.com/jordancoult/mavlink-gbp-release.git
+    version: robodub_msgs_rel/kin/mavlink/2020.4.4-1
+
+- git:
+    local-name: mavros
+    uri: https://github.com/jordancoult/mavros
+    version: robodub_msgs
+
